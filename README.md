@@ -22,6 +22,7 @@ IceTabSet v1.2.0
 
 
   History:
+  
     v1.2.0  2011.07.08:
       - reworked scroller class
       - no flickering, Double buffered paint method
