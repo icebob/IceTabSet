@@ -1,5 +1,5 @@
 IceTabSet v1.2.0
-  Developed by Norbert Mereg (mereg.norbert@gmail.com)
+  Developed by Norbert Mereg
     (Thanks for Stefan Ascher (TMDTabSet))
 
   Web: https://sourceforge.net/projects/icetabset/
